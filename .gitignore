@@ -18,7 +18,7 @@ Thumbs.db
 *.log
 
 # Data & BI files
-*.csv
+# *.csv
 *.xlsx
 *.xls
 *.json
